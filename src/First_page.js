@@ -1,5 +1,5 @@
 import React from 'react'
-import './App.css'
+import './Style.css'
 import {Link} from 'react-router-dom'
 
 function First_page(params) {

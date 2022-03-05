@@ -1,5 +1,5 @@
 import React from 'react'
-import './App.css';
+import './Style.css';
 import First_page from './First_page'
 import Sec_page from './Sec_page'
 import Third_page from './Third_page'
