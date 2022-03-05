@@ -12,7 +12,7 @@ import {  BrowserRouter,Route,Routes } from "react-router-dom";
 import Result_page from './Result_page';
 
 
-function App() {
+function Script() {
     return (
       <>
         <BrowserRouter>
@@ -31,7 +31,7 @@ function App() {
     );
   }
 
-export default App;
+export default Script;
 
 
 
